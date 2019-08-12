@@ -416,3 +416,6 @@ tensorflow.python.framework.errors_impl.InvalidArgumentError: Unsuccessful Tenso
 
 5. Flask程序用于生产
 可以参考官方文档：[Flask的生产配置](http://docs.jinkan.org/docs/flask/config.html)
+
+# 4 Python版本
+因原作者未标注Python版本，本人用3.6.4能跑起服务。
